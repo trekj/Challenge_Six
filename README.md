@@ -25,7 +25,7 @@ from pathlib import Path
 
 ## Usage
 
-After cloning the repository,  open the directory Starter Code and run the program by typing python financial_planning_tools.ipynb 
+After cloning the repository,  open the directory Starter Code and run the program by typing python san_francisco_housing.ipynb 
 
 ## Contributors
 #### James Tagapan
